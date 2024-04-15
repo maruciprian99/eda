@@ -3,8 +3,8 @@ from streamlit.components.v1 import html
 from streamlit_pandas_profiling import st_profile_report
 from pathlib import Path
 import pandas as pd
-import pandas_profiling
 import base64
+import ydata_profiling
 from IPython.display import HTML
 import uuid
 
